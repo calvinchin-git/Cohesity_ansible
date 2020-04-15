@@ -11,7 +11,7 @@
     # => Please change these variables to connect
     # => to your Cohesity Cluster
     vars:
-        var_cohesity_server: cohesity_cluster_vip
+        var_cohesity_server: 172.28.2.178
         var_cohesity_admin: cohesity
         var_cohesity_password: Cohe$1ty
         var_validate_certs: False
