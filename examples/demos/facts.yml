@@ -7,7 +7,7 @@
 
 # => Find and start all active Cohesity Protection Jobs registered to a Cluster
 ---
-  - hosts: 172.28.2.178
+  - hosts: workstation
     # => Please change these variables to connect
     # => to your Cohesity Cluster
     vars:
